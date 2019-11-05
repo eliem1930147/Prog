@@ -1,0 +1,2 @@
+M:\info prog\Examen2\Examen2\Examen2\obj\Debug\Examen2.csprojAssemblyReference.cache
+M:\info prog\Examen2\Examen2\Examen2\obj\Debug\Examen2.csproj.CoreCompileInputs.cache
