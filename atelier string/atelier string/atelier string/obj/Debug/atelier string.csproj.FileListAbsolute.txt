@@ -1,0 +1,7 @@
+M:\info prog\atelier string\atelier string\atelier string\bin\Debug\atelier string.exe.config
+M:\info prog\atelier string\atelier string\atelier string\bin\Debug\atelier string.exe
+M:\info prog\atelier string\atelier string\atelier string\bin\Debug\atelier string.pdb
+M:\info prog\atelier string\atelier string\atelier string\obj\Debug\atelier string.csprojAssemblyReference.cache
+M:\info prog\atelier string\atelier string\atelier string\obj\Debug\atelier string.csproj.CoreCompileInputs.cache
+M:\info prog\atelier string\atelier string\atelier string\obj\Debug\atelier string.exe
+M:\info prog\atelier string\atelier string\atelier string\obj\Debug\atelier string.pdb
